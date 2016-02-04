@@ -3,3 +3,4 @@ i am fine about u raja
 a=10
 b=20
 c=a+b
+this is bad code fix this bug issue
