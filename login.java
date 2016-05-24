@@ -1,6 +1,9 @@
+this is code for tecd developed
  Hi this is a naresh h r u man
 i am fine about u raja
 a=10
 b=20
 c=a+b
-this is bad code fix this bug issue
+
+C
+this is bad code fix this bug issu the
